@@ -1,0 +1,1 @@
+/Users/vivo/dotfiles/vivo.zsh-theme
